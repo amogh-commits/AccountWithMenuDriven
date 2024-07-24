@@ -1,0 +1,9 @@
+[
+  {
+    "AccountId": 1,
+    "AccountName": "Ram",
+    "AccountBankName": "SBI",
+    "AccountAadharNumber": "12345679",
+    "AccountBalance": 705500.0
+  }
+]
